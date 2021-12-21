@@ -1,0 +1,65 @@
+/*::::::TAGS: :::::::*/
+
+h1{
+	font-family: 'Poppins', sans-serif;;
+	font-size: 3rem;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	font-weight: 900;
+	/* color:#33a1fd; */
+	color:#fff;
+
+}
+
+/*::::::ID: :::::::*/
+
+/*--title--*/
+#title{
+	/* background-image: url(../images/white-waves.png); */
+	background-color:#f4a261;
+}
+
+
+/*::::::CLASS: :::::::*/
+/*heading*/
+
+.shift{
+	padding:0 15%;
+}
+.head{
+	font-family: 'The Nautigal', cursive;
+	font-weight: 700;
+	font-size: 3.8rem;
+    color:#c71b57;
+		border:5px solid pink;
+		padding:0 10px;
+		border-radius:5%;
+}
+/*header*/
+.container-fluid{
+	padding:0 15%;
+}
+.nav-link{
+	color:#fff;
+}
+.navbar-nav {
+
+	margin-left:600px;
+	padding:10px;
+}
+.nav-item{
+	margin-left:30px;
+
+}
+
+.row{
+	align-items:center;
+}
+.icecream{
+	transform:rotate(20deg);
+	margin-left:50px;
+	  box-shadow: 5px 10px #a2d2ff;
+
+}
+
+/*::::::TAGS: :::::::*/
