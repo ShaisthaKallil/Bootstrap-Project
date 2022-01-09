@@ -12,7 +12,9 @@ h1{
 	color:#fff;
 
 }
-
+h3{
+	font-size: 1.5rem;
+}
 /*::::::ID: :::::::*/
 
 /*--title--*/
@@ -25,9 +27,9 @@ h1{
 /*::::::CLASS: :::::::*/
 /*heading*/
 
-.shift{
+/* .shift{
 	padding:0 15%;
-}
+} */
 .head{
 	font-family: 'The Nautigal', cursive;
 	font-weight: 700;
@@ -38,43 +40,44 @@ h1{
 		border-radius:5%;
 }
 /*header*/
-.container-fluid{
-	padding:0 15%;
+ .container-fluid{
+	width:80%;
 }
 .nav-link{
 	color:#fff;
 }
-.navbar-nav {
 
-	margin-left:600px;
-	padding:10px;
+.navbar-nav {
+margin-left:50%;
+/* margin-left:700px; */
+	/* padding:10px; */
 }
 .nav-item{
-padding:0 18px;
+ padding:0 18px;
+ text-align:right;
+}
+.carousel{
+text-align: center;
 
 }
 
-.row{
-	align-items:center;
-}
 .icecream{
 	transform:rotate(20deg);
-	margin-left:50px;
+margin-left:80px;
 	  box-shadow: 5px 10px #a2d2ff;
 
 }
 
 /* features */
-.img-pos{
-    margin:0 auto;
-}
 
-.carousel{
-    text-align:center;
+
+.img-pos{
+	width:108%;
 }
 
 h3:hover{
     color:blue;
+		cursor:pointer;
 }
 
 /*::::::TAGS: :::::::*/
